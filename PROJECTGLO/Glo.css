@@ -1,0 +1,220 @@
+*{
+    margin: 0;
+    padding: 0;
+}
+
+
+.ty{
+    background-color: rgb(238, 95, 95);
+    font-size: small;
+    word-spacing: 15px;
+    padding: 18px;
+    text-align: right;
+    font-family: Tahoma;
+    position: fixed;
+    z-index: 100%;
+    
+}
+
+.co{
+    color: white; 
+    text-decoration: none;   
+}
+
+.ae{
+    margin-right: 972px;
+    font-size: large;
+    text-decoration: none;
+    color: white;
+    font-style: inherit;
+
+}
+
+.ab{
+    color: white; 
+    text-decoration: none; 
+}
+
+.re{
+    color: white;
+    text-decoration: none;
+}
+
+.bl{
+    color: white;
+    text-decoration: none;   
+}   
+
+.en{
+    color: white;
+    text-decoration: none; 
+}
+
+.ca{
+    width: 200px;
+    margin-bottom: 0px;
+    margin-top: 70px;
+    
+}
+
+.ct{
+    width: 100px;
+    margin-left: 200px;
+}
+
+.gl{
+    color:  rgb(238, 95, 95);
+    font-size: x-large;
+    position: relative; 
+    font-family: Tahoma;
+    position: absolute;
+    margin-top: 70px;
+    margin-left: 10px;
+}
+
+.lo{
+    background-color: rgb(238, 95, 95);
+    width: 60px;
+    color: white;
+    padding: 5px;
+    border: none;
+    border-radius: 10px;
+    position: relative;
+    margin-left: 1020px;
+    position: absolute;
+    margin-top: 80px;
+    
+}
+
+.si{
+    background-color: rgb(238, 95, 95);
+    width: 60px;
+    color: white;
+    padding: 5px;
+    border: none;
+    border-radius: 10px;
+    margin-left: 1100px;
+    position: relative;
+    position: absolute;
+    margin-top: 80px;
+    
+}
+.al{
+    font-size: x-large;
+    color: rgb(238, 95, 95); 
+
+}
+
+.se{
+    width: 700px;
+    border-color: rgb(231, 159, 159);
+    border-radius: 10px;
+    padding: 5px;
+    border-color: rgb(96, 121, 143);
+    
+}
+
+.bt{
+    background-color: rgb(238, 95, 95);
+    border: none;
+    border-radius: 8px;
+    padding: 3px;
+    color: white;
+}
+
+.zu{
+    background-color: white;
+    padding: 50px;
+    text-align: center;
+    word-spacing: 30px;
+    
+}
+
+.et{
+    background-color: white;
+    padding: 50px;
+    text-align: center;
+    
+    
+}
+
+.hm{
+    font-size: large;
+    text-decoration: none;
+    font-family: Tahoma;
+    color: rgb(35, 35, 100);
+    
+}
+.rf{
+    font-size: larger;
+    text-decoration: none;
+    font-family: Tahoma;
+    word-spacing: 2px;
+    color: rgb(35, 35, 100);
+}
+.df{
+    font-size: larger;
+    text-decoration: none;
+    font-family: Tahoma;
+    word-spacing: 2px;
+    color: rgb(35, 35, 100);
+}
+.ff{
+    font-size: larger;
+    text-decoration: none;
+    font-family: Tahoma;
+    word-spacing: 2px;
+    color: rgb(35, 35, 100);
+}
+.np{
+    font-size: larger;
+    text-decoration: none;
+    font-family: Tahoma;
+    word-spacing: 2px;
+    color: rgb(35, 35, 100);
+}
+.zf{
+    font-size: larger;
+    text-decoration: none;
+    font-family: Tahoma;
+    word-spacing: 2px;
+    color: rgb(35, 35, 100);
+}
+.wd{
+    font-size: larger;
+    text-decoration: none;
+    word-spacing: 2px;
+    color: rgb(35, 35, 100);
+}
+
+.hk{
+    background-image: url(img3.jpeg);
+    background-size: cover;
+    height: 500px;
+    
+}
+.py{
+    font-size: 80px;
+    color: rgb(207, 9, 9);
+    margin-top: 30px;
+    position: absolute;
+    margin-left: 300px;
+    font-family: Tahoma;
+    
+}
+
+.wl{
+    background-color: transparent;
+    color: white;
+    position: absolute;
+    margin-top: 300px;
+    margin-left: 440px;
+    padding: 10px;
+    width: 500px;
+    border: none;
+    font-size: x-large;
+    
+    
+    
+
+}
